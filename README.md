@@ -29,7 +29,7 @@ Troque `MyHero.js` pelo arquivo que quiser rodar (`RankingGame.js` ou `RankingMy
 
 ## Autor
 
-**João Batista da Silva Neto**
+**João Batista Neto**
 
 - GitHub: [@joaobatis1a](https://github.com/joaobatis1a)
 - LinkedIn: [joao-batista-silva-neto](https://linkedin.com/in/joao-batista-silva-neto)
